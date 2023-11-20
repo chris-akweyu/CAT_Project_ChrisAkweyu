@@ -4,9 +4,8 @@ index.html
 about.html
 contacts.html
 login.html
-They are all accompanied by their .css files:
+They are all accompanied by their .css files respectively:
 my.css
 portfolio.css
 contacts.css
 login.css
-respectively
